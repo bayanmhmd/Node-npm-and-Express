@@ -30,15 +30,15 @@ User Acceptance Tests
 Time Estimate
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Number and name of feature: ________________________________
+Number and name of feature: __________lab6______________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: ____2_
 
-Start time: _____
+Start time: __12:40 pm__
 
-Finish time: _____
+Finish time: __not yet___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __3___
 Add this information to your README.
 
 Overview
@@ -93,13 +93,4 @@ Your README.md must include:
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 -->
-Submission Instructions
-Complete your Feature Tasks for the lab
-Create a PR back to the master branch of your repository, and merge it cleanly.
-On Canvas, submit a link to your PR. Add a comment in your Canvas assignment which includes the following:
-A link to the deployed version of your latest code.
-A link to your public Trello board.
-A question within the context of today’s lab assignment
-An observation about the lab assignment, or related ‘Ah-hah!’ moment
-How long you spent working on this assignment
-© Code Fellows 2019
+
